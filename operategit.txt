@@ -1,9 +1,21 @@
 '''
-git clone - used to clone/download any repo
+1.git clone - used to clone/download any repo
 
 PYGAME-
 M-Modified.  
 
 2. git status - used to know the repo status 
+U - untracked (new file will appear in repo)
+3. git add - used to add untracked files to tracking works for one one file at a time.
+methond one - git add 'file'
+always use git status to check status
+A - file added 
+method two - git add 'file1' 'file2'
+method two is to add multiple files
+method three - git add .
+method three is to add all files which are being not tracked 
+
+git commit - used to commit file to psuh
+git commit -m ' ' ' ' 
 
 '''
