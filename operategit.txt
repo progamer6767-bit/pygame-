@@ -1,0 +1,9 @@
+'''
+git clone - used to clone/download any repo
+
+PYGAME-
+M-Modified.  
+
+2. git status - used to know the repo status 
+
+'''
