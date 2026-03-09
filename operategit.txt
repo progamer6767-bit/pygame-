@@ -17,5 +17,6 @@ method three is to add all files which are being not tracked
 
 git commit - used to commit file to psuh
 git commit -m ' ' ' ' 
+git push - updated or adds to repo
 
 '''
